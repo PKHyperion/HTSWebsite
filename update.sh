@@ -1,10 +1,4 @@
- 
-     echo "Försöker uppdatera alla gemensamma filer."
-     git fetch upstream;
-     git merge upstream/master;     
-
- 
-     echo "Försöker uppdatera alla gemensamma filer."
-     git fetch upstream;
-     git merge upstream/master;     
+﻿echo "Uppdatera alla gemensamma filer."
+git fetch origin;
+git merge origin/master;     
 
