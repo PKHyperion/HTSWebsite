@@ -1,0 +1,10 @@
+Min databas kommer att fungera som stöd till en mindre affärsverksamhet. Det ska finnas möjlighet för människor att logga in på en sida och sedan kanske köpa varor
+som hamnar i någon form av kundvagn. Definitivt så kommer det att behövas tabeller till inloggningsfunktionen som kräver att man ska kunna registrera sig på 
+hemsidan och sådant. 
+
+På hemsidan kommer det att säljas lite olika roliga prylar bara som jag hittar. Kanske en bil, kanske några fiskpinnar. 
+Rent praktiskt ska det vara tre tabell"sidor". 
+Var sida ska innehålla detta i vars en kolumn alltså.
+1. ID för vara, Namn på vara, Kategori, PRIS ID   (4 kolumner)
+2. ID för pris, Priset  (2 kolumner)
+3. ID för kategori, Kategori  (2kolumner)
