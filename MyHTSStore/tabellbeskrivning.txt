@@ -1,0 +1,7 @@
+Precis som jag skrev i mitt intro gjorde jag med
++En inloggnings tabell som hanterar användare.
+1. ID för vara, Namn på vara, Kategori ID, PRIS ID   (4 kolumner)
+2. ID för pris, Priset  (2 kolumner)
+3. ID för kategori, Kategori  (2kolumner)
+
+ett enkelt sätt att kategorisera sina produkter

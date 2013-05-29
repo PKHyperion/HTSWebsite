@@ -1,0 +1,7 @@
+http://csk157.hubpages.com/hub/Simple-search-PHP-MySQL
+
+sökfunktionen fick jag en del av härifrån+en annan sida som jag kopierade rakt av ifrån. Det funkade
+
+w3schools.org
+
+lite html, lärt mig om php mm.
